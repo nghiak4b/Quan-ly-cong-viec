@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Quan-ly-cong-viec/static/css/main.3e8cdb20.chunk.css",
+    "main.js": "/Quan-ly-cong-viec/static/js/main.4296a6bf.chunk.js",
+    "main.js.map": "/Quan-ly-cong-viec/static/js/main.4296a6bf.chunk.js.map",
+    "runtime-main.js": "/Quan-ly-cong-viec/static/js/runtime-main.7878e37b.js",
+    "runtime-main.js.map": "/Quan-ly-cong-viec/static/js/runtime-main.7878e37b.js.map",
+    "static/js/2.d298f442.chunk.js": "/Quan-ly-cong-viec/static/js/2.d298f442.chunk.js",
+    "static/js/2.d298f442.chunk.js.map": "/Quan-ly-cong-viec/static/js/2.d298f442.chunk.js.map",
+    "static/js/3.11a4be46.chunk.js": "/Quan-ly-cong-viec/static/js/3.11a4be46.chunk.js",
+    "static/js/3.11a4be46.chunk.js.map": "/Quan-ly-cong-viec/static/js/3.11a4be46.chunk.js.map",
+    "index.html": "/Quan-ly-cong-viec/index.html",
+    "static/css/main.3e8cdb20.chunk.css.map": "/Quan-ly-cong-viec/static/css/main.3e8cdb20.chunk.css.map",
+    "static/js/2.d298f442.chunk.js.LICENSE.txt": "/Quan-ly-cong-viec/static/js/2.d298f442.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7878e37b.js",
+    "static/js/2.d298f442.chunk.js",
+    "static/css/main.3e8cdb20.chunk.css",
+    "static/js/main.4296a6bf.chunk.js"
+  ]
+}
